@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">Hello! My name is Ignacio Reyes Vázquez, I studied Business Administration and Management at the UPV and later specialized in Data Analytics. With an innate passion for this field, I have started a Master in Data Analytics for Business at EDEM.<br><br>My professional career spans a job as a Data Scientist at the Polytechnic University of Valencia. During this time, I have had the privilege of working on a project on the sustainability of SMEs in all countries of the European Union, with the help of the European Commission. Today, I am working at NTT Data as a Data Analyst.<br><br>I am passionate about data and I think that continuous training is essential to develop as a professional in this field. I strongly believe in hard work, as I consider myself a perfectionist, a good team leader, open to teamwork and ambitious in this.<br><br>I am always open to new opportunities and to connect with like-minded professionals, feel free to contact me if you want to talk about any topic or ask me about any professional experience, as well as explore collaboration possibilities!</p>
+<p align="center">Hello! My name is Ignacio Reyes Vázquez, I studied Business Administration and Management at the UPV and later specialized in Data Analytics. With an innate passion for this field, I completed a Master's in Data Analytics for Business at EDEM.<br><br>My professional career includes roles such as Data Scientist at the Polytechnic University of Valencia, where I had the opportunity to work on a project about the sustainability of SMEs across the European Union, supported by the European Commission. I have worked at NTT Data as a Data Engineer/Scientist too, specialized in AWS services. Now I am a Software Crafter/ Data Architect working at BBVA Technologies, creating infraestructure in AWS and.<br><br>I am passionate about data and believe that continuous learning is key to growing as a professional in this field. I consider myself a perfectionist, a good team leader, open to collaboration, and always ambitious in my work.<br><br>I am always open to new opportunities and eager to connect with like-minded professionals. Feel free to reach out if you'd like to discuss any topic, ask about my professional experiences, or explore collaboration opportunities!</p>
 
 ###
 
@@ -55,5 +55,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nachoreyesv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
